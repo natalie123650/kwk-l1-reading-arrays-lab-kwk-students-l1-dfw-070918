@@ -13,7 +13,7 @@ end
 fourth_student_by_index
 
 def last_student_by_index
-  return "#{STUDENT_NAMES[5]}"
+  return STUDENT_NAMES[5]
 end
 
 last_student_by_index
