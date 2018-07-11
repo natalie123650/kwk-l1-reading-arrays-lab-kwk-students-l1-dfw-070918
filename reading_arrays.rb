@@ -11,7 +11,7 @@ def first_student_by_index
   puts "#{STUDENT_NAMES[0]}"
 end
 
-fourth_student_by_index
+first_student_by_index
 
 def fourth_student_by_index
   puts "#{STUDENT_NAMES[3]}"
